@@ -14,4 +14,6 @@ Steps:
 
 `multipass version`
 
-4. 
+4. Install VS Code
+5. Install Remote-SSH extension
+6. 
