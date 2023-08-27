@@ -7,6 +7,7 @@ Steps:
 1. Download Multipass from [here]([url](https://multipass.run/download/macos)https://multipass.run/download/macos).
 2. Install Multipass on your system as instructed on the screen. 
 3. Set up homebrew and run the following commands:
+   
 `brew install bash-completion@2`
 
 `brew install --cask multipass`
